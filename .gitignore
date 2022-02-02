@@ -1,2 +1,6 @@
+# original
 .DS_Store
 /sample
+
+# Dependency directories
+node_modules/
